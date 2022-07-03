@@ -1,7 +1,7 @@
 <?php
 defined('server') ? null : define("server", "localhost");
-defined('user') ? null : define ("user", ""),"root";
-defined('pass') ? null : define("pass","");
+defined('user') ? null : define ("user", "quadsquad");
+defined('pass') ? null : define("pass","Haritha@1234");
 defined('database_name') ? null : define("database_name", "db_elearning") ;
 
 $this_file = str_replace('\\', '/', __File__) ;

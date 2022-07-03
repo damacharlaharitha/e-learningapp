@@ -11,7 +11,7 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'QuadSquadLearningWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F3165B6B75054EA19832D700CA127D51 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BCBEB5F4E2CC4BEA81A604B3C144E5CB }}
           package: .

@@ -1,0 +1,27 @@
+Book1:								Book2 :									Book3:
+
+Name		: The wings of the Dove				Name		: The Color Purple					Name		: Under the Net 			
+Writer	: Henry James 					Writer	: Alice Walker						Writer	: Iris Murdoch
+Publisher	:Archibald Constable				publisher	: Harcourt Brace Jovanovich 				Publisher	: Chatto & Windus
+Brand		:							Brand		: 								Brand		: 
+Category	: Novel						Category	: Novel							Category	: Novel
+
+
+
+Book4 :								Book5 :									Book6 :
+
+Name		: The Walking Dead				Name		: Maus							Name		: Treasure Island
+Writer	: Robert Kirakman					Writer	: Art Spiegelman						Writer	: Robert Louis Stevenson
+Publisher	: Image Comics					Publisher 	: Pantheon Books						Publisher	: Simon & Schuster
+Brand		:							Brand		:								Brand		:
+Category	: Comics						Category	: Comic							Category	: Adventure
+
+
+
+Book7 :								Book8 :									Book9 :
+
+Name		: The Guns of August				Name 		: The spanish Civil War					Name		: A world Lit Only by Fire
+Writer	: Barbara W.Tuchman				Writer	: Antony Beevor						Writer	: 
+Publisher	: Macmillan						Publisher	: Cassell							Publisher	:
+Brand		:							Brand		:								Brand		:
+Category	: History						Category	: History							Category	: History
